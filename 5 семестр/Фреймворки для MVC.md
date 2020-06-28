@@ -42,7 +42,7 @@ Flask — фреймворк для создания веб-приложений
 
 |   | PyQt | web2py | Django | Flask |
 |---|---|---|---|---|
-|Логотип | ![Картинка](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/320px-Python_and_Qt.svg.png) |  ![Лого](https://img.google-wiki.info/storage/big/18154641.jpg) | ![Лого](http://it4study.ru/_nw/0/s67042349.jpg)  |   |
+|Логотип | ![Картинка](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/320px-Python_and_Qt.svg.png) |  ![Лого](https://img.google-wiki.info/storage/big/18154641.jpg) | ![Лого](https://skladchik.com/attachments/python_django2-png.165797)  |   |
 |---|---|---|---|---|
 | Достоинства |   |   |   |   |
 |---|---|---|---|---|
