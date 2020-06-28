@@ -2,3 +2,72 @@
 <p><strong>NumPy</strong> — это библиотека языка Python, добавляющая поддержку больших многомерных массивов и матриц, вместе с большой библиотекой высокоуровневых (и очень быстрых) математических функций для операций с этими массивами.</p>
 <p>Некоторые функции</p>
 <table>
+<thead>
+<tr>
+<th>Functions</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>array(&lt;список компонентов&gt;,[&lt;тип данных&gt;])</td>
+<td>Создаёт массив из списка компонентов. Можно указать тип данных</td>
+</tr>
+<tr>
+<td>zeros(&lt;размерность&gt;,[&lt;тип данных&gt;])</td>
+<td>Создаёт специальнный массив указонной размерности, заполненный нулями. Можно указать тип данных</td>
+</tr>
+<tr>
+<td>ones(&lt;размерность&gt;,[&lt;тип данных&gt;])</td>
+<td>Создаёт специальный массив указанной размерности, заполненный еденицами. Можно указать тип данных</td>
+</tr>
+<tr>
+<td>identity(&lt;размер&gt;,[&lt;тип данных&gt;])</td>
+<td>Создаёт специальный <em>n</em> x <em>n</em> массив c единицами на главной диагонали</td>
+</tr>
+<tr>
+<td>arange(&lt;от&gt;,&lt;до&gt;,&lt;шаг&gt;,[&lt;тип данных&gt;])</td>
+<td>Возвращает массив с равномерно разнесенными значения в пределах заданного интервала. Можно указать шаг</td>
+</tr>
+<tr>
+<td>linspace(&lt;первый&gt;,&lt;последний&gt;,&lt;размер&gt;)</td>
+<td>Аналогичена arange, только указывается не значение шага, а их колличество, шаг высчитывается автоматически</td>
+</tr>
+<tr>
+<td>size</td>
+<td>Возвращает количество элементов массива</td>
+</tr>
+<tr>
+<td>shape</td>
+<td>Возвращает или задаёт размер массива (количество строк и столбцов) </td>
+</tr>
+<tr>
+<td>transpose(a)</td>
+<td>Транспонирование матрицы а</td>
+</tr>
+<tr>
+<td>ravel()</td>
+<td>Возвращает flattened массив (в одну строчку)</td>
+</tr>
+<tr>
+<td>resize(&lt;массив&gt;,&lt;размерность&gt;)</td>
+<td>Ихменяет размерность массива      </td>
+</tr>
+<tr>
+<td>tile(&lt;массив&gt;,&lt;размерность&gt;)</td>
+<td>Повторяет массив указанное на указанное число повторений</td>
+</tr>
+</tbody>
+</table>
+<p>Пример использования с вычислением медианы и среднего значения</p>
+<pre><code class="lang-python"><span class="hljs-meta">&gt;&gt;</span>&gt; import numpy as np
+<span class="hljs-meta">&gt;&gt;</span>&gt; ones = np.ones(<span class="hljs-number">50</span>)
+<span class="hljs-meta">&gt;&gt;</span>&gt; rnd = np.random.random(<span class="hljs-number">50</span>) * <span class="hljs-number">0</span>.<span class="hljs-number">1</span>
+<span class="hljs-meta">&gt;&gt;</span>&gt; samples = ones + rnd
+<span class="hljs-meta">&gt;&gt;</span>&gt; np.average(samples)
+<span class="hljs-number">1.0456167098847502</span>
+<span class="hljs-meta">&gt;&gt;</span>&gt; np.mean(samples)
+<span class="hljs-number">1.0456167098847502</span>
+<span class="hljs-meta">&gt;&gt;</span>&gt; np.median(samples)
+<span class="hljs-number">1.0446054794173638</span>
+</code></pre>
