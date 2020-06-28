@@ -68,6 +68,10 @@
 
 [Функционал NumPy](https://github.com/DementedJim/programming/tree/master/5%20семестр/numpy)
 
+[Числа Фибоначчи по максимальному значению(генератор)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(generator).py)
+
+
+
 ## Семестр 6
 [Титаник (pandas+numpy)](https://github.com/DementedJim/programming/tree/master/6%20семестр/Титаник)
 
