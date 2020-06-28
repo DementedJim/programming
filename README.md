@@ -64,7 +64,7 @@
 ## Семестр 5
 [Функционал datetime](https://github.com/DementedJim/programming/blob/master/5%20семестр/datetime.md)
 
-[]()
+[Гостевая книга](https://github.com/DementedJim/programming/tree/master/5%20семестр/Гостевая%20книга)
 
 ## Семестр 6
 [Титаник (pandas+numpy)](https://github.com/DementedJim/programming/tree/master/6%20семестр/Титаник)
