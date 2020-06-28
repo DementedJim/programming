@@ -78,6 +78,8 @@
 
 [Паттерн Адаптер](https://github.com/DementedJim/programming/blob/master/5%20семестр/adapter.md)
 
+[Обзор современных фреймворков, реализующих шаблон архитектуры системы MVC](https://github.com/DementedJim/programming/blob/master/5%20семестр/Фреймворки%20для%20MVC.md)
+
 
 
 ## Семестр 6
