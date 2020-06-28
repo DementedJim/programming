@@ -70,6 +70,8 @@
 
 [Числа Фибоначчи по максимальному значению(генератор)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(generator).py)
 
+[Числа Фибоначчи(слайсы)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(slices).py)
+
 
 
 ## Семестр 6
