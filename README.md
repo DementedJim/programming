@@ -72,6 +72,8 @@
 
 [Числа Фибоначчи(слайсы)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(slices).py)
 
+[Список чисел Фибоначчи(итератор)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(iterator).py)
+
 
 
 ## Семестр 6
