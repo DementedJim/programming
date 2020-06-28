@@ -57,7 +57,7 @@
 
 [Время работы декоратора](https://github.com/DementedJim/programming/blob/master/4%20семестр/Время%20выполнения.py)
 
-[Калькулятор с логами](https://github.com/DementedJim/programming/tree/master/decorators%2020-03-2019)
+[Калькулятор с логами](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
 
 [Остывание кофе с графиком](https://github.com/DementedJim/programming/tree/master/4%20семестр/Coffee%20(остывание%20кофе%2C%20вычисления%20с%20графикой))
 
