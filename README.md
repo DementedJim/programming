@@ -66,6 +66,8 @@
 
 [Гостевая книга](https://github.com/DementedJim/programming/tree/master/5%20семестр/Гостевая%20книга)
 
+[Функционал NumPy](https://github.com/DementedJim/programming/tree/master/5%20семестр/numpy)
+
 ## Семестр 6
 [Титаник (pandas+numpy)](https://github.com/DementedJim/programming/tree/master/6%20семестр/Титаник)
 
