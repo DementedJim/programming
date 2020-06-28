@@ -74,6 +74,8 @@
 
 [Список чисел Фибоначчи(итератор)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(iterator).py)
 
+[Список чисел Фибоначчи(itertools)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(itertools).py)
+
 
 
 ## Семестр 6
