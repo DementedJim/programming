@@ -59,7 +59,6 @@
 
 [Калькулятор с логами](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
 
-[Остывание кофе с графиком](https://github.com/DementedJim/programming/tree/master/4%20семестр/Coffee%20(остывание%20кофе%2C%20вычисления%20с%20графикой))
 
 [Сортировка](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка.py)
 [Сортировка разных типов данных](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка%20разных%20типов%20данных.py)
@@ -71,12 +70,13 @@
 
 [Функционал NumPy](https://github.com/DementedJim/programming/tree/master/5%20семестр/numpy)
 
-
 [Числа Фибоначчи(слайсы)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(slices).py)
 
 [Список чисел Фибоначчи(итератор)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(iterator).py)
 
 [Список чисел Фибоначчи(itertools)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(itertools).py)
+
+[Остывание кофе с графиком](https://github.com/DementedJim/programming/tree/master/4%20семестр/Coffee%20(остывание%20кофе%2C%20вычисления%20с%20графикой))
 
 [Паттерн Адаптер](https://github.com/DementedJim/programming/blob/master/5%20семестр/adapter.md)
 
