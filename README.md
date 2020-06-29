@@ -107,4 +107,7 @@
 [Виртуальное окружение venv](https://github.com/DementedJim/programming/tree/master/6%20семестр/Виртуальное%20окружение)
 
 
+## Экзамен
+[Дополнительная задача](https://github.com/DementedJim/programming/blob/master/Доп.%20задача.py)
+
 
