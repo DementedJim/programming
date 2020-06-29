@@ -2,7 +2,7 @@ def wordcounter(s):
   c = 1
   words = s.split(' ')
   for i in words:
-     if(i not in '!,.1234567890-+;[]{}'):
+     if(i not in '1234567890[]{}.,!+-;'):
        yield print("Длина {0}-го слова {1}: {2}".format(c, i, len(i)))
        c+=1
 
