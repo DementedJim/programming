@@ -13,5 +13,4 @@ try:
         item = next(iterator)
 except StopIteration:
     pass
-finally:
-    del iterator
+
