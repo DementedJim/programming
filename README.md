@@ -91,6 +91,8 @@
 
 [Числа Фибоначчи по максимальному значению](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(generator).py)
 
+[Подсчет слов в тексте](https://github.com/DementedJim/programming/blob/master/6%20семестр/Подсчет%20слов.py)
+
 [Крестики-нолики](https://github.com/DementedJim/programming/blob/master/6%20семестр/Крестики-нолики.py)
 
 [Решение квадратного уравнения](https://github.com/DementedJim/programming/tree/master/6%20семестр/Квадратное%20уравнение)
