@@ -55,7 +55,7 @@
 ## Семестр 4
 [Праздники](https://github.com/DementedJim/programming/blob/master/4%20семестр/Праздники.py)
 
-[Время работы декоратора](https://github.com/DementedJim/programming/blob/master/4%20семестр/Время%20выполнения.py)
+[Время работы декорируемой функции](https://github.com/DementedJim/programming/blob/master/4%20семестр/Время%20выполнения.py)
 
 [Калькулятор с логами](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
 
