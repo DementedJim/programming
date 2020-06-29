@@ -1,4 +1,5 @@
 from datetime import datetime
+from functools import partial
 
 
 def trace(func):
@@ -20,5 +21,10 @@ def calc(op1, action, op2):
     return eval(f"{op1} {action} {op2}")
 
 
-calc(1, '+', 100)
+def main():
+    a1 = partial(calc, 1, '+')
+    a1(100)
 
+
+if __name__ == "__main__":
+    main()
