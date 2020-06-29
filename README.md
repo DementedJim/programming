@@ -101,6 +101,8 @@
 
 [Просмотр содержимого папки](https://github.com/DementedJim/programming/tree/master/6%20семестр/folder_chooser)
 
+[Системы виртуализации Python](https://github.com/DementedJim/programming/blob/master/6%20семестр/Системы%20витртуализации%20проектов.pdf)
+
 [Виртуальное окружение venv](https://github.com/DementedJim/programming/tree/master/6%20семестр/Виртуальное%20окружение)
 
 
