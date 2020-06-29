@@ -71,7 +71,6 @@
 
 [Функционал NumPy](https://github.com/DementedJim/programming/tree/master/5%20семестр/numpy)
 
-[Числа Фибоначчи по максимальному значению(генератор)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(generator).py)
 
 [Числа Фибоначчи(слайсы)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(slices).py)
 
@@ -89,6 +88,8 @@
 [Титаник (pandas+numpy)](https://github.com/DementedJim/programming/tree/master/6%20семестр/Титаник)
 
 [Произведение матриц с помощью numpy](https://github.com/DementedJim/programming/blob/master/6%20семестр/Произведение%20матриц%20с%20помощью%20numpy.py)
+
+[Числа Фибоначчи по максимальному значению](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(generator).py)
 
 [Крестики-нолики](https://github.com/DementedJim/programming/blob/master/6%20семестр/Крестики-нолики.py)
 
