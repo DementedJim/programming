@@ -61,6 +61,8 @@
 
 [Остывание кофе с графиком](https://github.com/DementedJim/programming/tree/master/4%20семестр/Coffee%20(остывание%20кофе%2C%20вычисления%20с%20графикой))
 
+[Сортировка](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка.py)
+
 ## Семестр 5
 [Функционал datetime](https://github.com/DementedJim/programming/blob/master/5%20семестр/datetime.md)
 
