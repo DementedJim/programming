@@ -61,7 +61,7 @@
 
 [Время работы декорируемой функции](https://github.com/DementedJim/programming/blob/master/4%20семестр/Время%20выполнения.py)
 
-[Калькулятор с логами](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
+[Калькулятор с логами, itertools, ...](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
 
 ### Тема 3
 
