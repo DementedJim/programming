@@ -9,6 +9,8 @@
 
 [Конспект](https://github.com/DementedJim/22-11-2018)
 
+### Введение в Python и основы синтаксиса
+
 ### Тема 1, ВСР
 [Установка Python](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%201/Установка%20Python%20на%20Windows.pdf)
 ### Тема 1, ИСР
@@ -17,6 +19,8 @@
 [Задание 3](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%201/ИСР/Задание%203.py)
 
 [Задание 4](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%201/ИСР/Задание%204.py)
+
+### Функции в Python
 
 ### Тема 2, ВСР
 [Список уникальных значений](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%202/ВСР/Список%20уникальных%20значений.py)
@@ -32,6 +36,8 @@
 
 [Задачи](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%202/ИСР/Задание%204.py)
 
+### Строки
+
 ### Тема 3, ВСР
 [Угадай число](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%203/ВСР/Угадай%20число.py)
 
@@ -46,28 +52,30 @@
 
 [CSV from txt](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%203/ИСР/CSV%20creator.py)
 
+### Тестирование
+
 ### Тема 4
 [Сравнительный анализ модулей и библиотек для тестирования](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%204/Сравнительный%20анализ%20модулей%20и%20библиотек%20для%20тестирования.pdf)
 
 ## Семестр 4
 
-### Тема 1
+### Тема 1 Обработка исключений
 
 [Тестирование JSON](https://github.com/DementedJim/programming/tree/master/4%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20JSON)
 
-### Тема 2
+### Тема 2 Декораторы
 
 [Время работы декорируемой функции](https://github.com/DementedJim/programming/blob/master/4%20семестр/Время%20выполнения.py)
 
 [Калькулятор с логами и functools](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
 
-### Тема 3
+### Тема 3 Введение в ООП
 
 [Регистрация на конференцию](https://github.com/DementedJim/programming/blob/master/4%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/registr.py)
 
 [Праздники](https://github.com/DementedJim/programming/blob/master/4%20семестр/Праздники.py)
 
-### Тема 4
+### Тема 4 Встроенные коллекции
 
 [Сортировка](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка.py)
 
@@ -78,7 +86,7 @@
 
 ## Семестр 5
 
-### Тема 1
+### Тема 1 Модули. Пакеты
 
 [Функционал datetime](https://github.com/DementedJim/programming/blob/master/5%20семестр/datetime.md)
 
@@ -86,7 +94,7 @@
 
 [Функционал NumPy](https://github.com/DementedJim/programming/tree/master/5%20семестр/numpy)
 
-### Тема 2
+### Тема 2 Итераторы
 
 [Числа Фибоначчи(слайсы)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(slices).py)
 
@@ -94,14 +102,14 @@
 
 [Список чисел Фибоначчи(itertools)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(itertools).py)
 
-### Тема 3
+### Тема 3 Введение в ООА, шаблоны проектирования
 
 [Паттерн Адаптер](https://github.com/DementedJim/programming/blob/master/5%20семестр/adapter.md)
 
 [Обзор современных фреймворков, реализующих шаблон архитектуры системы MVC](https://github.com/DementedJim/programming/blob/master/5%20семестр/Фреймворки%20для%20MVC.md)
 
-### Тема 4
-
+### Тема 4 Построение графиков на Python
+ 
 [QR коды](https://github.com/DementedJim/programming/blob/master/5%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/qrcodes.py)
 
 [Остывание кофе с графиком](https://github.com/DementedJim/programming/tree/master/4%20семестр/Coffee%20(остывание%20кофе%2C%20вычисления%20с%20графикой))
@@ -112,13 +120,13 @@
 
 ## Семестр 6
 
-### Тема 1
+### Тема 1 Пакеты для научных вычислений (Scikit-learn, Pandas, Numpy)
 
 [Титаник (pandas+numpy)](https://github.com/DementedJim/programming/tree/master/6%20семестр/Титаник)
 
 [Произведение матриц с помощью numpy](https://github.com/DementedJim/programming/blob/master/6%20семестр/Произведение%20матриц%20с%20помощью%20numpy.py)
 
-### Тема 2
+### Тема 2 Генераторы в Python. Корутины, сопрограммы
 
 [Числа Фибоначчи по максимальному значению](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(generator).py)
 
@@ -128,7 +136,7 @@
 
 [Конспект "A Curious Course on Coroutines and Concurrency"](https://github.com/DementedJim/programming/blob/master/6%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/A%20Curious%20Course%20on%20Coroutines%20and%20Concurrency.md#a-curious-course-on-coroutines-and-concurrency-by-david-beazley)
 
-### Тема 3
+### Тема 3 Разработка графических интерфейсов (GUI)
 
 [Крестики-нолики](https://github.com/DementedJim/programming/blob/master/6%20семестр/Крестики-нолики.py)
 
@@ -138,7 +146,7 @@
 
 [Просмотр содержимого папки](https://github.com/DementedJim/programming/tree/master/6%20семестр/folder_chooser)
 
-### Тема 4
+### Тема 4 Виртуальное окружение (virtualenv, pipenv, pyenv)
 
 [Системы виртуализации Python](https://github.com/DementedJim/programming/blob/master/6%20семестр/Системы%20витртуализации%20проектов.pdf)
 
