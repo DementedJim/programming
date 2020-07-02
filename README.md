@@ -57,17 +57,21 @@
 
 [Тестирование JSON](https://github.com/DementedJim/programming/tree/master/4%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20JSON)
 
-[Праздники](https://github.com/DementedJim/programming/blob/master/4%20семестр/Праздники.py)
+### Тема 2
 
 [Время работы декорируемой функции](https://github.com/DementedJim/programming/blob/master/4%20семестр/Время%20выполнения.py)
 
 [Калькулятор с логами](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
 
+### Тема 3
 
 [Сортировка](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка.py)
 
 [Сортировка разных типов данных](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка%20разных%20типов%20данных.py)
 
+### Тема 4
+
+[Праздники](https://github.com/DementedJim/programming/blob/master/4%20семестр/Праздники.py)
 
 
 ## Семестр 5
