@@ -54,15 +54,23 @@
 
 ## Семестр 4
 
+### Тема 1
+
 [Тестирование JSON](https://github.com/DementedJim/programming/tree/master/4%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20JSON)
+
+### Тема 2
 
 [Время работы декорируемой функции](https://github.com/DementedJim/programming/blob/master/4%20семестр/Время%20выполнения.py)
 
 [Калькулятор с логами и functools](https://github.com/DementedJim/programming/blob/master/4%20семестр/logcalc.py)
 
+### Тема 3
+
 [Регистрация на конференцию](https://github.com/DementedJim/programming/blob/master/4%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/registr.py)
 
 [Праздники](https://github.com/DementedJim/programming/blob/master/4%20семестр/Праздники.py)
+
+### Тема 4
 
 [Сортировка](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка.py)
 
@@ -73,11 +81,15 @@
 
 ## Семестр 5
 
+### Тема 1
+
 [Функционал datetime](https://github.com/DementedJim/programming/blob/master/5%20семестр/datetime.md)
 
 [Гостевая книга](https://github.com/DementedJim/programming/tree/master/5%20семестр/Гостевая%20книга)
 
 [Функционал NumPy](https://github.com/DementedJim/programming/tree/master/5%20семестр/numpy)
+
+### Тема 2
 
 [Числа Фибоначчи(слайсы)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(slices).py)
 
@@ -85,9 +97,13 @@
 
 [Список чисел Фибоначчи(itertools)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(itertools).py)
 
+### Тема 3
+
 [Паттерн Адаптер](https://github.com/DementedJim/programming/blob/master/5%20семестр/adapter.md)
 
 [Обзор современных фреймворков, реализующих шаблон архитектуры системы MVC](https://github.com/DementedJim/programming/blob/master/5%20семестр/Фреймворки%20для%20MVC.md)
+
+### Тема 4
 
 [QR коды](https://github.com/DementedJim/programming/blob/master/5%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/qrcodes.py)
 
@@ -99,9 +115,13 @@
 
 ## Семестр 6
 
+### Тема 1
+
 [Титаник (pandas+numpy)](https://github.com/DementedJim/programming/tree/master/6%20семестр/Титаник)
 
 [Произведение матриц с помощью numpy](https://github.com/DementedJim/programming/blob/master/6%20семестр/Произведение%20матриц%20с%20помощью%20numpy.py)
+
+### Тема 2
 
 [Числа Фибоначчи по максимальному значению](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(generator).py)
 
@@ -111,6 +131,8 @@
 
 [Конспект "A Curious Course on Coroutines and Concurrency"](https://github.com/DementedJim/programming/blob/master/6%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/A%20Curious%20Course%20on%20Coroutines%20and%20Concurrency.md#a-curious-course-on-coroutines-and-concurrency-by-david-beazley)
 
+### Тема 3
+
 [Крестики-нолики](https://github.com/DementedJim/programming/blob/master/6%20семестр/Крестики-нолики.py)
 
 [Решение квадратного уравнения](https://github.com/DementedJim/programming/tree/master/6%20семестр/Квадратное%20уравнение)
@@ -118,6 +140,8 @@
 [Решение системы линейных уравнений](https://github.com/DementedJim/programming/tree/master/6%20семестр/Система%20линейных%20уравнений)
 
 [Просмотр содержимого папки](https://github.com/DementedJim/programming/tree/master/6%20семестр/folder_chooser)
+
+### Тема 4
 
 [Системы виртуализации Python](https://github.com/DementedJim/programming/blob/master/6%20семестр/Системы%20витртуализации%20проектов.pdf)
 
