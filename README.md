@@ -9,9 +9,6 @@
 
 [Конспект](https://github.com/DementedJim/22-11-2018)
 
-[Сортировка](https://github.com/DementedJim/18-10-2018-Python)
-
-[Сортировка разных типов](https://github.com/DementedJim/programming/blob/master/3%20семестр/Сортировка.py)
 ### Тема 1, ВСР
 [Установка Python](https://github.com/DementedJim/programming/blob/master/3%20семестр/Тема%201/Установка%20Python%20на%20Windows.pdf)
 ### Тема 1, ИСР
