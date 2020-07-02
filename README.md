@@ -96,6 +96,8 @@
 
 [Генерация UUID](https://github.com/DementedJim/programming/blob/master/6%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/id.py)
 
+[Конспект "A Curious Course on Coroutines and Concurrency"](https://github.com/DementedJim/programming/blob/master/6%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/A%20Curious%20Course%20on%20Coroutines%20and%20Concurrency.md#a-curious-course-on-coroutines-and-concurrency-by-david-beazley)
+
 [Крестики-нолики](https://github.com/DementedJim/programming/blob/master/6%20семестр/Крестики-нолики.py)
 
 [Решение квадратного уравнения](https://github.com/DementedJim/programming/tree/master/6%20семестр/Квадратное%20уравнение)
