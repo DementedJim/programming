@@ -65,11 +65,14 @@
 
 ### Тема 3
 
+[Регистрация на конференцию](https://github.com/DementedJim/programming/tree/master/5%20семестр/Гостевая%20книга)
+
+
+### Тема 4
+
 [Сортировка](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка.py)
 
 [Сортировка разных типов данных](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка%20разных%20типов%20данных.py)
-
-### Тема 4
 
 [Праздники](https://github.com/DementedJim/programming/blob/master/4%20семестр/Праздники.py)
 
