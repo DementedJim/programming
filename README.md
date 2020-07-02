@@ -65,11 +65,16 @@
 [Сортировка разных типов данных](https://github.com/DementedJim/programming/blob/master/4%20семестр/Сортировка%20разных%20типов%20данных.py)
 
 ## Семестр 5
+
+### Тема 1
+
 [Функционал datetime](https://github.com/DementedJim/programming/blob/master/5%20семестр/datetime.md)
 
 [Гостевая книга](https://github.com/DementedJim/programming/tree/master/5%20семестр/Гостевая%20книга)
 
 [Функционал NumPy](https://github.com/DementedJim/programming/tree/master/5%20семестр/numpy)
+
+### Тема 2
 
 [Числа Фибоначчи(слайсы)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(slices).py)
 
@@ -77,15 +82,23 @@
 
 [Список чисел Фибоначчи(itertools)](https://github.com/DementedJim/programming/blob/master/5%20семестр/fibonacci%20(itertools).py)
 
-[Остывание кофе с графиком](https://github.com/DementedJim/programming/tree/master/4%20семестр/Coffee%20(остывание%20кофе%2C%20вычисления%20с%20графикой))
+### Тема 3
 
 [Паттерн Адаптер](https://github.com/DementedJim/programming/blob/master/5%20семестр/adapter.md)
 
 [Обзор современных фреймворков, реализующих шаблон архитектуры системы MVC](https://github.com/DementedJim/programming/blob/master/5%20семестр/Фреймворки%20для%20MVC.md)
 
+### Тема 4
+
+[QR коды](https://github.com/DementedJim/programming/blob/master/5%20%D1%81%D0%B5%D0%BC%D0%B5%D1%81%D1%82%D1%80/qrcodes.py)
+
+[Остывание кофе с графиком](https://github.com/DementedJim/programming/tree/master/4%20семестр/Coffee%20(остывание%20кофе%2C%20вычисления%20с%20графикой))
+
 
 
 ## Семестр 6
+
+
 [Титаник (pandas+numpy)](https://github.com/DementedJim/programming/tree/master/6%20семестр/Титаник)
 
 [Произведение матриц с помощью numpy](https://github.com/DementedJim/programming/blob/master/6%20семестр/Произведение%20матриц%20с%20помощью%20numpy.py)
