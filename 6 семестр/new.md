@@ -93,12 +93,12 @@ Actually, I'm expecting to be flogged with a rubber chicken for even suggesting 
 There are many possible ways to parse XML. An old-school approach: SAX. SAX is an event driven interface.
 
 ### Some Issue
-* SAX is often used because it can be used to incrementally process huge XML files without a large memory footprint.
+SAX is often used because it can be used to incrementally process huge XML files without a large memory footprint.
 
  However, the event-driven nature of SAX parsing makes it rather awkward and low-level to deal with.
 
 ### Event Processing
-* To do anything interesting, you have to process the event stream
+To do anything interesting, you have to process the event stream
 
 Example: Convert bus elements into dictionaries (XML sucks, dictionaries rock)
 
