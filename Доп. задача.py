@@ -1,7 +1,7 @@
 def kvadr(max):
     a = 1
     b = 1
-    while a < max:
+    while b < max:
         yield b
         if a == 1:
             a += 1
@@ -19,7 +19,6 @@ def listgen(m):
       elif int(n / 100) == 0:
           l.append(int(n / 10))
           l.append(int(n % 10))
-  del l[-1]
   return l
          
 
@@ -32,4 +31,3 @@ print(listgen(max)[a])
 
 if __name__=='__main__':
   assert listgen(5) == [1, 4], ("Функция, генерирующая список квадратов по максимальному значению квадрата, работает неправильно")
- 
