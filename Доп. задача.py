@@ -9,17 +9,29 @@ def kvadr(max):
         a += 1
     return []
 
-print('Введите максимальное значение квадрата')
-m = int(input())
-l = []
-for n in kvadr(m):
-    if int(n / 10) == 0:
-        l.append(n)
-    elif int(n / 100) == 0:
-        l.append(int(n / 10))
-        l.append(int(n % 10))
 
-#print (l)
+
+def listgen(m):
+  l = []
+  for n in kvadr(m):
+      if int(n / 10) == 0:
+          l.append(n)
+      elif int(n / 100) == 0:
+          l.append(int(n / 10))
+          l.append(int(n % 10))
+  return l
+  
+        
+
+print('Введите максимальное значение квадрата')
+max = int(input())
 print('Введите номер цифры')
-n = int(input()) - 1
-print(l[n])
+a = int(input()) - 1
+print(listgen(max)[a])
+
+
+if __name__=='__main__':
+  assert listgen(5) == [1, 4, 9], ("Функция, считающая количество цифр в числе работает некорректно")
+
+
+ 
