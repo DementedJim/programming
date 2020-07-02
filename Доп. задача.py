@@ -10,7 +10,6 @@ def kvadr(max):
     return []
 
 
-
 def listgen(m):
   l = []
   for n in kvadr(m):
@@ -20,7 +19,6 @@ def listgen(m):
           l.append(int(n / 10))
           l.append(int(n % 10))
   return l
-  
         
 
 print('Введите максимальное значение квадрата')
